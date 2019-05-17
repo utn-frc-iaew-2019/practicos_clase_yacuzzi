@@ -1,0 +1,554 @@
+<?xml version="1.0"?>
+<ScanGroup ExportedOn="17/05/2019, 00:50:38">
+<Scan>
+        <Name><![CDATA[scan_name]]></Name>
+        <ShortName><![CDATA[scan_short_name]]></ShortName>
+        <StartURL><![CDATA[https://foxplay.com/ar/channel/0560cbaaa71a49ddbf04e10d900742c9]]></StartURL>
+        <StartTime><![CDATA[17/05/2019, 00:34:03]]></StartTime>
+        <FinishTime><![CDATA[17/05/2019, 00:48:43]]></FinishTime>
+        <ScanTime><![CDATA[14 minutes, 35 seconds]]></ScanTime>
+        <Aborted><![CDATA[True]]></Aborted>
+        <Responsive><![CDATA[]]></Responsive>
+        <Banner><![CDATA[]]></Banner>
+        <Os><![CDATA[]]></Os>
+        <WebServer><![CDATA[]]></WebServer>
+        <Technologies>
+            <![CDATA[
+                
+            ]]>
+        </Technologies>
+        <Crawler StartUrl="https://foxplay.com/ar/channel/0560cbaaa71a49ddbf04e10d900742c9">
+            <Cookies>
+                
+            </Cookies>
+            <SiteFiles>
+<SiteFile id="1">
+                    <Name><![CDATA[https://foxplay.com/]]></Name>
+                    <URL><![CDATA[/]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="2">
+                    <Name><![CDATA[ar]]></Name>
+                    <URL><![CDATA[/ar]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="3">
+                    <Name><![CDATA[channel]]></Name>
+                    <URL><![CDATA[/ar/channel]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="4">
+                    <Name><![CDATA[0560cbaaa71a49ddbf04e10d900742c9]]></Name>
+                    <URL><![CDATA[/ar/channel/0560cbaaa71a49ddbf04e10d900742c9]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/0560cbaaa71a49ddbf04e10d900742c9]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="5">
+                    <Name><![CDATA[item.id]]></Name>
+                    <URL><![CDATA[/ar/channel/item.id]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/item.id]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="6">
+                    <Name><![CDATA[prerender]]></Name>
+                    <URL><![CDATA[/ar/channel/prerender]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/prerender]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="7">
+                    <Name><![CDATA[public]]></Name>
+                    <URL><![CDATA[/ar/channel/prerender/public]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/prerender/public]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="8">
+                    <Name><![CDATA[init.js]]></Name>
+                    <URL><![CDATA[/ar/channel/prerender/public/init.js]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/prerender/public/init.js]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="9">
+                    <Name><![CDATA[scripts]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="10">
+                    <Name><![CDATA[prerender]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/prerender]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/prerender]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="11">
+                    <Name><![CDATA[public]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/prerender/public]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/prerender/public]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="12">
+                    <Name><![CDATA[init.js]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/prerender/public/init.js]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/prerender/public/init.js]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="13">
+                    <Name><![CDATA[scripts]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/scripts]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/scripts]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="14">
+                    <Name><![CDATA[scripts.ce8fd852.js]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/scripts.ce8fd852.js]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/scripts.ce8fd852.js]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="15">
+                    <Name><![CDATA[scripts.ce8fd852.js]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/scripts/scripts.ce8fd852.js]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/scripts/scripts.ce8fd852.js]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="16">
+                    <Name><![CDATA[vendor.2c9cce3d.js]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/scripts/vendor.2c9cce3d.js]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/scripts/vendor.2c9cce3d.js]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="17">
+                    <Name><![CDATA[styles]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/styles]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/styles]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="18">
+                    <Name><![CDATA[styles.77215809.css]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/styles/styles.77215809.css]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/styles/styles.77215809.css]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="19">
+                    <Name><![CDATA[vendor.52268e09.css]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/styles/vendor.52268e09.css]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/styles/vendor.52268e09.css]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="20">
+                    <Name><![CDATA[vendor.2c9cce3d.js]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/vendor.2c9cce3d.js]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/vendor.2c9cce3d.js]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="21">
+                    <Name><![CDATA[www.foxplay.com]]></Name>
+                    <URL><![CDATA[/ar/channel/scripts/www.foxplay.com]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/scripts/www.foxplay.com]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="22">
+                    <Name><![CDATA[styles]]></Name>
+                    <URL><![CDATA[/ar/channel/styles]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="23">
+                    <Name><![CDATA[prerender]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/prerender]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/prerender]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="24">
+                    <Name><![CDATA[public]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/prerender/public]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/prerender/public]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="25">
+                    <Name><![CDATA[init.js]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/prerender/public/init.js]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/prerender/public/init.js]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="26">
+                    <Name><![CDATA[scripts]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/scripts]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/scripts]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="27">
+                    <Name><![CDATA[scripts.ce8fd852.js]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/scripts/scripts.ce8fd852.js]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/scripts/scripts.ce8fd852.js]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="28">
+                    <Name><![CDATA[vendor.2c9cce3d.js]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/scripts/vendor.2c9cce3d.js]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/scripts/vendor.2c9cce3d.js]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="29">
+                    <Name><![CDATA[styles]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/styles]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/styles]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="30">
+                    <Name><![CDATA[styles.77215809.css]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/styles.77215809.css]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/styles.77215809.css]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="31">
+                    <Name><![CDATA[styles.8b4e9054.css]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/styles.8b4e9054.css]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/styles.8b4e9054.css]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="32">
+                    <Name><![CDATA[styles.77215809.css]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/styles/styles.77215809.css]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/styles/styles.77215809.css]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="33">
+                    <Name><![CDATA[vendor.52268e09.css]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/styles/vendor.52268e09.css]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/styles/vendor.52268e09.css]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="34">
+                    <Name><![CDATA[vendor.52268e09.css]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/vendor.52268e09.css]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/vendor.52268e09.css]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="35">
+                    <Name><![CDATA[vendor.9b767c14.css]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/vendor.9b767c14.css]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/vendor.9b767c14.css]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="36">
+                    <Name><![CDATA[www.foxplay.com]]></Name>
+                    <URL><![CDATA[/ar/channel/styles/www.foxplay.com]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/styles/www.foxplay.com]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="37">
+                    <Name><![CDATA[timeLine.id]]></Name>
+                    <URL><![CDATA[/ar/channel/timeLine.id]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/timeLine.id]]></FullURL>
+                    
+                </SiteFile>
+<SiteFile id="38">
+                    <Name><![CDATA[www.foxplay.com]]></Name>
+                    <URL><![CDATA[/ar/channel/www.foxplay.com]]></URL>
+                    <FullURL><![CDATA[https://foxplay.com/ar/channel/www.foxplay.com]]></FullURL>
+                    
+                </SiteFile>
+            </SiteFiles>
+        </Crawler>
+        <ReportItems>
+<ReportItem id="1" color="orange">
+                <Name><![CDATA[HTML form without CSRF protection]]></Name>
+                <ModuleName><![CDATA[/Crawler/12-Crawler_Form_NO_CSRF.js]]></ModuleName>
+                <Details><![CDATA[Not available in the free trial]]></Details>
+                <Affects><![CDATA[/]]></Affects>
+                <Parameter><![CDATA[]]></Parameter>
+                <AOP_SourceFile><![CDATA[]]></AOP_SourceFile>
+                <AOP_SourceLine></AOP_SourceLine>
+                <AOP_Additional><![CDATA[]]></AOP_Additional>
+                <IsFalsePositive><![CDATA[]]></IsFalsePositive>
+                <Severity><![CDATA[medium]]></Severity>
+                <Type><![CDATA[csrf]]></Type>
+                <Impact><![CDATA[An attacker could use CSRF to trick a victim into accessing a website hosted by the attacker, or clicking a URL containing malicious or unauthorized requests.<br/><br/>
+CSRF is a type of 'confused deputy' attack which leverages the authentication and authorization of the victim when the forged request is being sent to the web server. Therefore, if a CSRF vulnerability could affect highly privileged users such as administrators full application compromise may be possible.]]></Impact>
+                <Description><![CDATA[<div class="bb-coolbox"><span class="bb-dark">This alert requires manual confirmation</span></div><br/>
+Cross-Site Request Forgery (CSRF, or XSRF) is a vulnerability wherein an attacker tricks a victim into making a request the victim did not intend to make. Therefore, with CSRF, an attacker abuses the trust a web application has with a victim's browser.<br/><br/>
+Acunetix found an HTML form with no apparent anti-CSRF protection implemented. Consult the 'Attack details' section for more information about the affected HTML form.]]></Description>
+                <DetailedInformation><![CDATA[During a CSRF attack, the browser is tricked into sending HTTP requests to the web application as intended by the attacker. This could include submitting forms to alter various forms of data.<br/><br/>  Upon sending an HTTP request (legitimate or otherwise), the victim's browser will include the Cookie header. Cookies are typically used to store a user's session identifier in order to prevent the user from authenticating for each request, which would obviously be impractical.<br/><br/>  To such an extent, if the victim's authentication session is stored in a Cookie, and is still valid (a browser window/tab does not necessarily need to be open), if the application is vulnerable to CSRF, an attacker can leverage CSRF to launch any desired requests against the website, without the website being able to distinguish whether the requests are legitimate or not.<br/><br/>   <h5>CSRF in GET requests</h5> The following is a simple example of how CSRF can be abused in GET requests through the use of the <code>&lt;img&gt;</code> tag.<br/>  <pre> &lt;img src=&quot;http://example.com/changePassword/?newPassword=attackerPassword&quot;&gt; </pre><br/>   The above is a CSRF attack using an HTTP GET request. If a victim visits a web page controlled by an attacker with the following payload, the browser will send a request containing the Cookie to the attacker crafted URL.<br/><br/>   <h5>CSRF in GET requests</h5> GET requests, however are not the only HTTP method an attacker can abuse. POST requests are equally susceptible to CSRF, however, an attacker will need to make use of a little bit of JavaScript to submit the POST request.<br/><br/>  The following is a simple example of how CSRF can be abused POST requests through the use of an <code>&lt;iframe&gt;</code> tag. This code would be loaded in an iFrame which is made invisible to the victim.<br/><br/>  <strong>iFrame</strong> <pre> &lt;iframe src=&quot;http://attacker.com/csrfAttack&quot; style=&quot;width:0;height:0;border:0;border:none;&quot;&gt;&lt;/iframe&gt; </pre>  <strong>iFrame Contents</strong> <pre> &lt;body onload=&quot;document.getElementById('csrf').submit()&quot;&gt;   &lt;form id=&quot;csrf&quot; action=&quot;http://example.com/changePassword&quot; method=&quot;POST&quot;&gt;     &lt;input name=&quot;newPassword&quot; value=&quot;attackerPassword&quot; /&gt;   &lt;/form&gt; &lt;/body&gt; </pre>]]></DetailedInformation>
+                <Recommendation><![CDATA[Verify if this form requires anti-CSRF protection and implement CSRF countermeasures if necessary.<br/><br/>
+The recommended and the most widely used technique for preventing CSRF attacks is know as an anti-CSRF token, also sometimes referred to as a synchronizer token. The characteristics of a well designed anti-CSRF system involve the following attributes.<br/><br/>
+<ul>
+  <li>The anti-CSRF token should be unique for each user session</li>
+  <li>The session should automatically expire after a suitable amount of time</li>
+  <li>The anti-CSRF token should be a cryptographically random value of significant length</li>
+  <li>The anti-CSRF token should be cryptographically secure, that is, generated by a strong Pseudo-Random Number Generator (PRNG) algorithm</li>
+  <li>The anti-CSRF token is added as a hidden field for forms, or within URLs (only necessary if GET requests cause state changes, that is, GET requests are not idempotent)</li>
+  <li>The server should reject the requested action if the anti-CSRF token fails validation</li>
+</ul><br/>
+When a user submits a form or makes some other authenticated request that requires a Cookie, the anti-CSRF token should be included in the request. Then, the web application will then verify the existence and correctness of this token before processing the request. If the token is missing or incorrect, the request can be rejected.]]></Recommendation>
+                <TechnicalDetails>
+                    <Request><![CDATA[Not available in the free trial]]></Request>
+                </TechnicalDetails>
+                <CWEList>
+                    
+                    <CWE id="352"><![CDATA[CWE-352]]></CWE>
+                    
+                </CWEList>
+                <CVEList>
+                    
+                </CVEList>
+                <CVSS>
+                  <Descriptor><![CDATA[AV:N/AC:H/Au:N/C:N/I:P/A:N]]></Descriptor>
+                  <Score><![CDATA[2.6]]></Score>
+                  <AV><![CDATA[Network_Accessible]]></AV>
+                  <AC><![CDATA[High]]></AC>
+                  <Au><![CDATA[None]]></Au>
+                  <C><![CDATA[None]]></C>
+                  <I><![CDATA[Partial]]></I>
+                  <A><![CDATA[None]]></A>
+                  <E><![CDATA[]]></E>
+                  <RL><![CDATA[]]></RL>
+                  <RC><![CDATA[]]></RC>
+                </CVSS>
+                
+                <CVSS3>
+                  <Descriptor><![CDATA[CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:N]]></Descriptor>
+                  <Score><![CDATA[4.3]]></Score>
+                  <TempScore><![CDATA[]]></TempScore>
+                  <EnvScore><![CDATA[]]></EnvScore>
+                  <AV><![CDATA[Network]]></AV>
+                  <AC><![CDATA[Low]]></AC>
+                  <PR><![CDATA[None]]></PR>
+                  <UI><![CDATA[Required]]></UI>
+                  <S><![CDATA[Unchanged]]></S>
+                  <C><![CDATA[None]]></C>
+                  <I><![CDATA[Low]]></I>
+                  <A><![CDATA[None]]></A>
+                  <E><![CDATA[]]></E>
+                  <RL><![CDATA[]]></RL>
+                  <RC><![CDATA[]]></RC>
+                </CVSS3>
+                
+                <References>
+                    
+                    <Reference>
+                      <Database><![CDATA[What is Cross Site Reference Forgery (CSRF)?]]></Database>
+                      <URL><![CDATA[https://www.acunetix.com/websitesecurity/csrf-attacks/]]></URL>
+                    </Reference>
+                    
+                    <Reference>
+                      <Database><![CDATA[Cross-Site Request Forgery (CSRF) Prevention Cheatsheet]]></Database>
+                      <URL><![CDATA[https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)_Prevention_Cheat_Sheet]]></URL>
+                    </Reference>
+                    
+                    <Reference>
+                      <Database><![CDATA[The Cross-Site Request Forgery (CSRF/XSRF) FAQ]]></Database>
+                      <URL><![CDATA[http://www.cgisecurity.com/csrf-faq.html]]></URL>
+                    </Reference>
+                    
+                    <Reference>
+                      <Database><![CDATA[Cross-site Request Forgery]]></Database>
+                      <URL><![CDATA[https://en.wikipedia.org/wiki/Cross-site_request_forgery]]></URL>
+                    </Reference>
+                    
+                </References>
+            </ReportItem>
+<ReportItem id="2" color="blue">
+                <Name><![CDATA[Clickjacking: X-Frame-Options header missing]]></Name>
+                <ModuleName><![CDATA[/Scripts/PerServer/Clickjacking_X_Frame_Options.script]]></ModuleName>
+                <Details><![CDATA[Not available in the free trial]]></Details>
+                <Affects><![CDATA[/]]></Affects>
+                <Parameter><![CDATA[]]></Parameter>
+                <AOP_SourceFile><![CDATA[]]></AOP_SourceFile>
+                <AOP_SourceLine></AOP_SourceLine>
+                <AOP_Additional><![CDATA[]]></AOP_Additional>
+                <IsFalsePositive><![CDATA[]]></IsFalsePositive>
+                <Severity><![CDATA[low]]></Severity>
+                <Type><![CDATA[abuseoffunctionality]]></Type>
+                <Impact><![CDATA[The impact depends on the affected web application. ]]></Impact>
+                <Description><![CDATA[Clickjacking (User Interface redress attack, UI redress attack, UI redressing) is a malicious technique of tricking a Web user into clicking on something different from what the user perceives they are clicking on, thus potentially revealing confidential information or taking control of their computer while clicking on seemingly innocuous web pages. <br/><br/>
+The server didn't return an <strong>X-Frame-Options</strong> header which means that this website could be at risk of a clickjacking attack. The X-Frame-Options HTTP response header can be used to indicate whether or not a browser should be allowed to render a page inside a frame or iframe. Sites can use this to avoid clickjacking attacks, by ensuring that their content is not embedded into other sites.
+]]></Description>
+                <DetailedInformation><![CDATA[]]></DetailedInformation>
+                <Recommendation><![CDATA[Configure your web server to include an  X-Frame-Options header. Consult Web references for more information about the possible values for this header.]]></Recommendation>
+                <TechnicalDetails>
+                    <Request><![CDATA[Not available in the free trial]]></Request>
+                </TechnicalDetails>
+                <CWEList>
+                    
+                    <CWE id="693"><![CDATA[CWE-693]]></CWE>
+                    
+                </CWEList>
+                <CVEList>
+                    
+                </CVEList>
+                <CVSS>
+                  <Descriptor><![CDATA[AV:N/AC:M/Au:N/C:P/I:P/A:P]]></Descriptor>
+                  <Score><![CDATA[6.8]]></Score>
+                  <AV><![CDATA[Network_Accessible]]></AV>
+                  <AC><![CDATA[Medium]]></AC>
+                  <Au><![CDATA[None]]></Au>
+                  <C><![CDATA[Partial]]></C>
+                  <I><![CDATA[Partial]]></I>
+                  <A><![CDATA[Partial]]></A>
+                  <E><![CDATA[]]></E>
+                  <RL><![CDATA[]]></RL>
+                  <RC><![CDATA[]]></RC>
+                </CVSS>
+                
+                <References>
+                    
+                    <Reference>
+                      <Database><![CDATA[The X-Frame-Options response header]]></Database>
+                      <URL><![CDATA[https://developer.mozilla.org/en-US/docs/HTTP/X-Frame-Options]]></URL>
+                    </Reference>
+                    
+                    <Reference>
+                      <Database><![CDATA[Clickjacking]]></Database>
+                      <URL><![CDATA[http://en.wikipedia.org/wiki/Clickjacking]]></URL>
+                    </Reference>
+                    
+                    <Reference>
+                      <Database><![CDATA[OWASP Clickjacking]]></Database>
+                      <URL><![CDATA[https://www.owasp.org/index.php/Clickjacking]]></URL>
+                    </Reference>
+                    
+                    <Reference>
+                      <Database><![CDATA[Defending with Content Security Policy frame-ancestors directive]]></Database>
+                      <URL><![CDATA[https://www.owasp.org/index.php/Clickjacking_Defense_Cheat_Sheet#Defending_with_Content_Security_Policy_frame-ancestors_directive]]></URL>
+                    </Reference>
+                    
+                    <Reference>
+                      <Database><![CDATA[Frame Buster Buster]]></Database>
+                      <URL><![CDATA[http://stackoverflow.com/questions/958997/frame-buster-buster-buster-code-needed]]></URL>
+                    </Reference>
+                    
+                </References>
+            </ReportItem>
+<ReportItem id="3" color="blue">
+                <Name><![CDATA[OPTIONS method is enabled]]></Name>
+                <ModuleName><![CDATA[/Scripts/PerServer/Options_Server_Method.script]]></ModuleName>
+                <Details><![CDATA[Not available in the free trial]]></Details>
+                <Affects><![CDATA[/]]></Affects>
+                <Parameter><![CDATA[]]></Parameter>
+                <AOP_SourceFile><![CDATA[]]></AOP_SourceFile>
+                <AOP_SourceLine></AOP_SourceLine>
+                <AOP_Additional><![CDATA[]]></AOP_Additional>
+                <IsFalsePositive><![CDATA[]]></IsFalsePositive>
+                <Severity><![CDATA[low]]></Severity>
+                <Type><![CDATA[configuration]]></Type>
+                <Impact><![CDATA[The OPTIONS method may expose sensitive information that may help an malicious user to prepare more advanced attacks.]]></Impact>
+                <Description><![CDATA[HTTP OPTIONS method is enabled on this web server. The OPTIONS method provides a list of the methods that are supported by the web server, it represents a request for information about the communication options available on the request/response chain identified by the Request-URI.]]></Description>
+                <DetailedInformation><![CDATA[]]></DetailedInformation>
+                <Recommendation><![CDATA[It's recommended to disable OPTIONS Method on the web server.]]></Recommendation>
+                <TechnicalDetails>
+                    <Request><![CDATA[Not available in the free trial]]></Request>
+                </TechnicalDetails>
+                <CWEList>
+                    
+                    <CWE id="200"><![CDATA[CWE-200]]></CWE>
+                    
+                </CWEList>
+                <CVEList>
+                    
+                </CVEList>
+                <CVSS>
+                  <Descriptor><![CDATA[AV:N/AC:L/Au:N/C:P/I:N/A:N]]></Descriptor>
+                  <Score><![CDATA[5.0]]></Score>
+                  <AV><![CDATA[Network_Accessible]]></AV>
+                  <AC><![CDATA[Low]]></AC>
+                  <Au><![CDATA[None]]></Au>
+                  <C><![CDATA[Partial]]></C>
+                  <I><![CDATA[None]]></I>
+                  <A><![CDATA[None]]></A>
+                  <E><![CDATA[]]></E>
+                  <RL><![CDATA[]]></RL>
+                  <RC><![CDATA[]]></RC>
+                </CVSS>
+                
+                <CVSS3>
+                  <Descriptor><![CDATA[CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N]]></Descriptor>
+                  <Score><![CDATA[7.5]]></Score>
+                  <TempScore><![CDATA[]]></TempScore>
+                  <EnvScore><![CDATA[]]></EnvScore>
+                  <AV><![CDATA[Network]]></AV>
+                  <AC><![CDATA[Low]]></AC>
+                  <PR><![CDATA[None]]></PR>
+                  <UI><![CDATA[None]]></UI>
+                  <S><![CDATA[Unchanged]]></S>
+                  <C><![CDATA[High]]></C>
+                  <I><![CDATA[None]]></I>
+                  <A><![CDATA[None]]></A>
+                  <E><![CDATA[]]></E>
+                  <RL><![CDATA[]]></RL>
+                  <RC><![CDATA[]]></RC>
+                </CVSS3>
+                
+                <References>
+                    
+                    <Reference>
+                      <Database><![CDATA[Testing for HTTP Methods and XST (OWASP-CM-008)]]></Database>
+                      <URL><![CDATA[https://www.owasp.org/index.php/Testing_for_HTTP_Methods_and_XST_(OWASP-CM-008)]]></URL>
+                    </Reference>
+                    
+                </References>
+            </ReportItem>
+<ReportItem id="4" color="blue">
+                <Name><![CDATA[TRACE method is enabled]]></Name>
+                <ModuleName><![CDATA[/Scripts/PerServer/Track_Trace_Server_Methods.script]]></ModuleName>
+                <Details><![CDATA[Not available in the free trial]]></Details>
+                <Affects><![CDATA[/]]></Affects>
+                <Parameter><![CDATA[]]></Parameter>
+                <AOP_SourceFile><![CDATA[]]></AOP_SourceFile>
+                <AOP_SourceLine></AOP_SourceLine>
+                <AOP_Additional><![CDATA[]]></AOP_Additional>
+                <IsFalsePositive><![CDATA[]]></IsFalsePositive>
+                <Severity><![CDATA[low]]></Severity>
+                <Type><![CDATA[configuration]]></Type>
+                <Impact><![CDATA[Attackers may abuse HTTP TRACE functionality to gain access to information in HTTP headers such as cookies and authentication data. ]]></Impact>
+                <Description><![CDATA[HTTP TRACE method is enabled on this web server. In the presence of other cross-domain vulnerabilities in web browsers, sensitive header information could be read from any domains that support the HTTP TRACE method.]]></Description>
+                <DetailedInformation><![CDATA[]]></DetailedInformation>
+                <Recommendation><![CDATA[Disable TRACE Method on the web server.]]></Recommendation>
+                <TechnicalDetails>
+                    <Request><![CDATA[Not available in the free trial]]></Request>
+                </TechnicalDetails>
+                <CWEList>
+                    
+                    <CWE id="16"><![CDATA[CWE-16]]></CWE>
+                    
+                </CWEList>
+                <CVEList>
+                    
+                </CVEList>
+                <CVSS>
+                  <Descriptor><![CDATA[AV:N/AC:L/Au:N/C:N/I:N/A:N]]></Descriptor>
+                  <Score><![CDATA[0.0]]></Score>
+                  <AV><![CDATA[Network_Accessible]]></AV>
+                  <AC><![CDATA[Low]]></AC>
+                  <Au><![CDATA[None]]></Au>
+                  <C><![CDATA[None]]></C>
+                  <I><![CDATA[None]]></I>
+                  <A><![CDATA[None]]></A>
+                  <E><![CDATA[]]></E>
+                  <RL><![CDATA[]]></RL>
+                  <RC><![CDATA[]]></RC>
+                </CVSS>
+                
+                <References>
+                    
+                    <Reference>
+                      <Database><![CDATA[W3C - RFC 2616]]></Database>
+                      <URL><![CDATA[http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html]]></URL>
+                    </Reference>
+                    
+                    <Reference>
+                      <Database><![CDATA[US-CERT VU#867593]]></Database>
+                      <URL><![CDATA[http://www.kb.cert.org/vuls/id/867593]]></URL>
+                    </Reference>
+                    
+                    <Reference>
+                      <Database><![CDATA[Cross-site tracing (XST)]]></Database>
+                      <URL><![CDATA[http://www.cgisecurity.com/lib/WH-WhitePaper_XST_ebook.pdf]]></URL>
+                    </Reference>
+                    
+                </References>
+            </ReportItem>
+        </ReportItems>
+    </Scan>
+</ScanGroup>
